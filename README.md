@@ -4,9 +4,9 @@
 ```
 * pkg install git python
 * pkg install termux-api 
-* git clone https://github.com/MhankBarBar/reemar-project
+* git clone https://github.com/Yondaime-kun/reemar-project
 * cd reemar-project
 * python reemar.py
 ```
 # Screenshot
-<img src="https://github.com/MhankBarBar/spm-unli/blob/master/reemar.png" width="100%" alt="ScreenShot">
+<img src="https://github.com/Yondaime-kun/reemar-project/blob/master/reemar.png" width="100%" alt="ScreenShot">
