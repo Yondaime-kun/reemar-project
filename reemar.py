@@ -26,7 +26,7 @@ try:
     import requests
 
 except ImportError:
-    os.system("pip install re json requests")
+    os.system("pip install requests")
 
 # -----[ Color ]-----
 m = '\x1b[1;31m'
