@@ -9,4 +9,4 @@
 * python reemar.py
 ```
 # Screenshot
-<img src="https://github.com/MhankBarBar/spm-unli/blob/master/reemar.png" width="50%" alt="ScreenShot">
+<img src="https://github.com/MhankBarBar/spm-unli/blob/master/reemar.png" width="100%" alt="ScreenShot">
